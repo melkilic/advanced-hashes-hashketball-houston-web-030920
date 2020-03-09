@@ -1,6 +1,6 @@
 # Write your code here!
 def game_hash
-  home : {
+  home: {
    team name: 'Brooklyn Nets',
    colors: %w[Black White],
    players:[
