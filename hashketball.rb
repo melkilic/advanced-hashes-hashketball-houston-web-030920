@@ -1,7 +1,7 @@
 # Write your code here!
 def game_hash
   home : {
-   team name: Brooklyn Nets,
+   team name: 'Brooklyn Nets',
    colors: %w[Black White],
    players:[
               { player_name: 'Alan Anderson',
@@ -52,7 +52,7 @@ def game_hash
             ] 
   },
   away: {
-   team name: Charlotte Hornets,
+   team name: 'Charlotte Hornets',
    colors: %w[Turquoise Purple],
    players: [
               { player_name: 'Jeff Adrien',
